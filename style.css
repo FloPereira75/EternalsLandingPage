@@ -153,6 +153,9 @@ header ul li a:hover {
 }
 
 @media (max-width: 600px) {
+    header {
+        padding: 20px 40px;
+    }
     .banner .images .imgBx {
         width: 100%;
     }
